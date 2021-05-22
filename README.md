@@ -1,3 +1,6 @@
+This repository is obsolete since publishing to packages is not anymore necessary to use modules in an online editor.
+[Elm Editor](https://elm-editor.com) now supports using modules without publishing them as a package.
+
 This package supports the simple development of video games in [Ellie](https://github.com/ellie-app/ellie/issues/94#issuecomment-487252060). 
 
 The functions contained in this package make it easier to create a browser app and provide implementations for commonly used generic functionality.
